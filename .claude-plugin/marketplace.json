@@ -1,0 +1,33 @@
+{
+  "name": "ditto-product-research",
+  "description": "Run synthetic customer research from your terminal. Pain discovery, concept validation, pricing tests, competitive analysis, and startup diligence using Ditto's 300K+ AI personas (92% correlation with traditional research, EY validated). Studies complete in 15-30 minutes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ditto (Ask Ditto Inc.)",
+    "email": "support@askditto.io"
+  },
+  "homepage": "https://askditto.io/claude-code/installing-ditto-skill",
+  "repository": "https://github.com/Ask-Ditto/ditto-product-research-skill",
+  "license": "MIT",
+  "keywords": [
+    "market-research",
+    "customer-research",
+    "synthetic-personas",
+    "product-validation",
+    "pricing",
+    "competitive-analysis",
+    "concept-testing",
+    "pain-discovery",
+    "startup-diligence",
+    "voice-of-customer",
+    "ditto"
+  ],
+  "category": "research",
+  "tags": [
+    "research",
+    "marketing",
+    "product-management",
+    "customer-validation",
+    "api-integration"
+  ]
+}
